@@ -1,1 +1,1 @@
-Recreating Gradius 3 for the SNES, though of course a simplified version of it in JS, using the Phaser library.
+Adding somefeature to [Gradius](https://github.com/dbinebrink/gradius) from [dbinebrink](https://github.com/dbinebrink)
